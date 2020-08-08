@@ -1,0 +1,19 @@
+{
+  "name": "arivu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arivazhagu/Arivu_npm_packager.git"
+  },
+  "author": "Arivazhagu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arivazhagu/Arivu_npm_packager/issues"
+  },
+  "homepage": "https://github.com/Arivazhagu/Arivu_npm_packager#readme"
+}
